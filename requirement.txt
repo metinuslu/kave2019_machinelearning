@@ -1,0 +1,8 @@
+# pip install -r requirement.txt
+tensorflow
+keras
+scikit-learn
+numpy
+pandas
+xlrd
+matplotlib
