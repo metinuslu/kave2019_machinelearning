@@ -6,4 +6,4 @@
 
 KaVe Site: [https://uzay00.github.io/kahve/calistay/](https://uzay00.github.io/kahve/calistay/)
 
-![alt text](https://uzay00.github.io/kahve/calistay/Fig/afis.jpg)
+![alt text](http://veribilimci.org/wp-content/uploads/2019/05/KaVeAfis.jpg)
